@@ -1,0 +1,51 @@
+Variables :
+
+-"Job_Title"
+-"Company_Name"
+-"Company_Rating"
+-"No. of Reviews"
+-BASIC QUALIFICATIONS : Minimum Qualifications for the job
+-PREFERRED QUALIFICATIONS: Preferred Qualifications for the job
+-"Job_Location"
+-"Job_Description"
+-"date_posted"
+-"Crawl_TimeStamp"
+-Salary Estimate : Salary estimated of the job posting.
+-Rating : Rating of the companies job posting is listed.
+-Size : The size of the company's employment.
+-Founded : The company founded year
+-Type of ownership : Type of ownership in which the company.
+-Industry : The industry in which the company works.
+-"contact"
+-address
+-city
+
+------------------------------------------------------------------------
+-'title'
+-'description'             
+-'mission' 
+-'date_pub_begin'
+-'date_pub_end'  
+-'secteur_activite'    
+-'fonction'            
+-'experiecne_requise'  
+-'niveau_etude_demande'
+-'Type_contrat_propose'
+-'secteur_activite_url'    
+-'fonction_url'            
+-'experiecne_requise_url'  
+-'niveau_etude_demande_url'
+-'Type_contrat_propose_url'
+
+
+-----------------------------------------------------------------------------
+
+-datePub_begin	
+-InfoPub	
+-DescriptionPub	
+-post_prop	
+-type_ctrt_prp	
+-datePub_end	secteur_activite	
+-fonction	
+-niv_etd_dem	titlePub	
+-experience_requise
